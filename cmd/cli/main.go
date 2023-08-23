@@ -3,7 +3,7 @@ package main
 import (
 	"fmt"
 
-	"github.com/sharongorman/try-go/helloworld"
+	"github.com/sharongorman/try-go/internal/helloworld"
 )
 
 
