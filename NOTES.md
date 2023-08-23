@@ -23,3 +23,9 @@ myString:=string(myVar)
 ```go
 const pi = 3.14
 ```
+
+
+Commands
+| Command                   | Description       |
+| ------------------------- | ----------------- |
+| go mod init <module name> | Initialise module |

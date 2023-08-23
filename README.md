@@ -9,7 +9,7 @@ A simple repo with a helloworld.go.
 3. Open a terminal in your dev container
 
 ```bash
-go run helloworld.go
+go run ./main.go
 ```
 
 ## Decisions
